@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="CYT Normal" lan="" version="1.0" date="2013-01-08" compatibility="2.0" >
+	<author name="LaocheXe" url="http://defiantz.org" />
+	<summary lan="">Theme created for clan coyote</summary>
+	<description lan="">Theme was created for Clan Coyote website</description>
+	<keywords>
+		<word>gaming</word>
+		<word>clan</word>
+	</keywords>
+	<category>clan</category>
+	<copyright>LaocheXe</copyright>
+	<screenshots>
+		<image>preview.jpg</image>
+		<image>fullpreview.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="" />
+	</stylesheets>
+	<layouts>
+		<layout name='default' title='Default' default='true' />	
+	</layouts>
+</e107Theme>
