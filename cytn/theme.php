@@ -137,7 +137,7 @@ $FOOTER = "
 }else{*/
 // Default Header and Footer -----------------------------------------------------------
 
-$HEADER = "
+$HEADER['default'] = "
 
 ".$editbutton."
 
@@ -175,7 +175,7 @@ $HEADER = "
 {MENU=2}
 ";
 
-$FOOTER = "
+$FOOTER['default'] = "
 {MENU=3}
 </td>
 <td style='width:0%; vertical-align:top'>
